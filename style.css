@@ -26,7 +26,16 @@ form{
 }
 
 input{
-    width: 400px;
+    width: 200px;
+}
+
+.operacoes{
+    display: flex;
+    flex-direction: row;
+
+}
+button{
+    width: 100px;
 }
 
 #resultado{
